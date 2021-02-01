@@ -6,7 +6,11 @@ Content:
 - all parameters during training in output directory
 - use examples in examples directory
 
+Upscale b7
 ![alt text](https://github.com/KamilBartocha/boml-srcnn/blob/master/Results.png)
+Upscale cat
+![alt text](https://github.com/KamilBartocha/boml-srcnn/blob/master/Results_v2.png)
+
 Based on paper 
 [Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/abs/1501.00092)
 by
